@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+     android:layout_width="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kalkulator" />
+
+    <Spinner
+        android:id="@+id/liczba1"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:entries="@array/liczby" />
+    />
+
+    <Spinner
+        android:id="@+id/liczba2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:entries="@array/liczby" />
+    />
+
+    <Spinner
+        android:id="@+id/dzialanie"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:entries="@array/dzialania" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/guzik"
+        android:onClick="onClickPolicz"/>
+
+    <TextView
+        android:id="@+id/wynik"
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:text="@string/dzialanie" />
+
+</LinearLayout>
