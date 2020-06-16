@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drogomierz</string>
+    <string name="permission_denied">Wymagany dostęp do lokalizacji</string>
+</resources>
