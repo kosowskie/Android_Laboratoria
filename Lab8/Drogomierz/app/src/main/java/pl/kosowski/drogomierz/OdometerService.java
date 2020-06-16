@@ -1,4 +1,4 @@
-package com.hfad.drogomierz;
+package pl.kosowski.drogomierz;
 
 import android.app.Service;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.hfad.drogomierz;
+package pl.kosowski.drogomierz;
 
 import android.app.Activity;
 import android.app.NotificationManager;
@@ -15,6 +15,9 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.content.ContextCompat;
 import android.widget.TextView;
+
+import com.hfad.drogomierz.R;
+
 import java.util.Locale;
 
 

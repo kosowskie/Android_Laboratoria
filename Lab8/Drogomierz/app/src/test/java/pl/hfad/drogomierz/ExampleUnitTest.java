@@ -1,4 +1,4 @@
-package com.hfad.drogomierz;
+package pl.hfad.drogomierz;
 
 import org.junit.Test;
 
