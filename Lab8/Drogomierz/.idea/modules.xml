@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Drogomierz.iml" filepath="$PROJECT_DIR$/Drogomierz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/Drogomierz-app.iml" filepath="$PROJECT_DIR$/app/Drogomierz-app.iml" group="Drogomierz/app" />
-      <module fileurl="file://$PROJECT_DIR$/Lab8-Drogomierz.iml" filepath="$PROJECT_DIR$/Lab8-Drogomierz.iml" group="Drogomierz" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Drogomierz.iml" filepath="$PROJECT_DIR$/Drogomierz.iml" group="Drogomierz" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Drogomierz/app" />
     </modules>
   </component>
 </project>

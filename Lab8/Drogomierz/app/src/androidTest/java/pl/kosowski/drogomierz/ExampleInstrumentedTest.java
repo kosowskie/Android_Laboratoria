@@ -1,4 +1,4 @@
-package pl.hfad.drogomierz;
+package pl.kosowski.drogomierz;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

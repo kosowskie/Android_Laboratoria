@@ -1,4 +1,4 @@
-package pl.hfad.drogomierz;
+package pl.kosowski.drogomierz;
 
 import org.junit.Test;
 

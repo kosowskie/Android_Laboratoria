@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="send">Wyślij wiadomość</string>
+    <string name="hint">Wpisz wiadomość</string>
+    <string name="display">Wyświetl wiadomości</string>
+    <string name="chooser">Wysyłanie wiadomości...</string>
+    <string name="hint2">Wpisz numer</string>
+    <string name="call">Zadzwoń!</string>
+
+</resources>

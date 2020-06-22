@@ -18,9 +18,7 @@ import java.util.Locale;
  * A simple {@link Fragment} subclass.
  */
 public class StopwatchFragment extends Fragment implements View.OnClickListener {
-    //Number of seconds displayed on the stopwatch.
     private int seconds = 0;
-    //Is the stopwatch running?
     private boolean running;
     private boolean wasRunning;
 

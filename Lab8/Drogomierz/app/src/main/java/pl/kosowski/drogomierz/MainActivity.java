@@ -16,7 +16,7 @@ import android.support.v4.app.NotificationCompat;
 import android.support.v4.content.ContextCompat;
 import android.widget.TextView;
 
-import com.hfad.drogomierz.R;
+import pl.kosowski.drogomierz.R;
 
 import java.util.Locale;
 
